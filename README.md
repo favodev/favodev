@@ -1,10 +1,29 @@
-<table width="100%" border="0">
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=400&color=3390F7&center=true&vCenter=true&width=435&lines=favodev" alt="Typing SVG" />
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://i.pinimg.com/originals/e5/58/e3/e558e3c2cb5c413505a24212fd4eaf0d.gif" height="200" alt="GIF animado">
-    </td>
-  </tr>
-</table>
+# Hi, I'm Fernando 👋 
+
+**Ingeniero Civil Informático | Full-Stack & Mobile Developer**
+
+---
+
+### Tech Stack 
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+
+**Frameworks & Libraries**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) 
+
+**Infrastructure, DB & DevOps**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-FFB000?style=flat-square&logo=githubactions&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
+
+---
+
+### Current Projects 
+
+* ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes y actualizaciones en vivo. [Live Demo](https://bidpulse-favodev.netlify.app/) 
+* 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global para PC (Rust + Tauri). Búsqueda inteligente de contenido en archivos locales, actualmente PDF, TXT y MD. 
+* 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – App para el popular juego de deducción de internet. Incluye gestión de categorías, votaciones y roles con palabras secretas. 
+
+### Legacy Works 
+
+* 🩺 **[MediTech](https://github.com/favodev/meditech)** – App médica para control de tratamientos anticoagulantes y gestión de fichas médicas digitales vía QR.
+* 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – Lector de escritorio desarrollado en Flutter para la Biblia Reina Valera 1960.
