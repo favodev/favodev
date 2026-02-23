@@ -1,6 +1,6 @@
 # Hi, I'm Fernando 👋 
 
-**Ingeniero Civil Informático | Full-Stack & Mobile Developer**
+**Ingeniero Civil Informático | Full-Stack & Mobile Developer | DevOps**
 
 ---
 
@@ -19,11 +19,11 @@
 
 ### Current Projects 
 
-* ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes y actualizaciones en vivo. [Live Demo](https://bidpulse-favodev.netlify.app/) 
-* 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global para PC (Rust + Tauri). Búsqueda inteligente de contenido en archivos locales, actualmente PDF, TXT y MD. 
-* 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – App para el popular juego de deducción de internet. Incluye gestión de categorías, votaciones y roles con palabras secretas. 
+* 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global (Rust + Tauri). Búsqueda inteligente de contenido en archivos locales (PDF, TXT, MD).
+* 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – App de deducción social con gestión de categorías, votaciones dinámicas y asignación de roles secretos.
+* ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes. [Ver Demo](https://bidpulse-favodev.netlify.app/) 
 
 ### Legacy Works 
 
-* 🩺 **[MediTech](https://github.com/favodev/meditech)** – App médica para control de tratamientos anticoagulantes y gestión de fichas médicas digitales vía QR.
-* 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – Lector de escritorio desarrollado en Flutter para la Biblia Reina Valera 1960.
+* 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales vía QR y control de tratamientos anticoagulantes.
+* 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – Lector de escritorio multiplataforma desarrollado en Flutter para la Biblia Reina Valera 1960.
