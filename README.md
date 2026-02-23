@@ -20,8 +20,8 @@
 ### Current Projects 
 
 * 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global (Rust + Tauri). Búsqueda inteligente de contenido en archivos locales (PDF, TXT, MD).
-* 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – App de deducción social con gestión de categorías, votaciones dinámicas y asignación de roles secretos.
-* ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes. [Ver Demo](https://bidpulse-favodev.netlify.app/) 
+* 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – App para el popular juego de descubrir al impostor. Incluye gestión de categorías, palabras secretas y votaciones.
+* ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes. [Demo](https://bidpulse-favodev.netlify.app/) 
 
 ### Legacy Works 
 
