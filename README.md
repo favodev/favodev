@@ -17,21 +17,18 @@
 
 ### Proyectos Destacados
 
-* 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global (Rust + Tauri). Búsqueda inteligente de contenido en archivos locales (PDF, TXT, MD).
+* 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global (**Rust + Tauri**). Búsqueda inteligente en archivos locales (PDF, TXT, MD).
 * ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes. [Demo en vivo](https://bidpulse-favodev.netlify.app/) 
-* 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Aplicación móvil para el juego "impostor". Incluye gestión de categorías y sistema de votación. [Descargar APK](https://github.com/favodev/impostor/releases)
+* 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Aplicación móvil para el juego "impostor". Gestión de categorías y sistema de votación. [Descargar APK](https://github.com/favodev/impostor/releases)
 * 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales mediante QR y seguimiento de tratamientos. [Descargar APK](https://github.com/favodev/meditech/releases)
-* 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – Lector de escritorio multiplataforma desarrollado en Flutter para la Biblia Reina Valera 1960. [Descargar App](https://github.com/favodev/BibliaRV60/releases)
+* 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – Lector de escritorio multiplataforma desarrollado en **Flutter**. [Descargar App](https://github.com/favodev/BibliaRV60/releases)
 
 ---
 
-### Mi Actividad en GitHub
+### Análisis de Actividad
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=favodev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="190" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=favodev&layout=compact&theme=tokyonight&hide_langs=php,java&hide_border=true" alt="Lenguajes más usados" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=favodev&theme=tokyonight&hide_border=true" alt="Racha de commits" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=favodev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="190" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=favodev&layout=compact&theme=tokyonight&hide=php,java,c%2B%2B,html,javascript&hide_border=true" height="190" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=favodev&theme=tokyonight&hide_border=true" />
+</div>
