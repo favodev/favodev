@@ -28,5 +28,10 @@
 ### Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=favodev&theme=tokyonight" alt="Racha de commits" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=favodev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="190" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=favodev&layout=compact&theme=tokyonight&hide_langs=php,java&hide_border=true" alt="Lenguajes más usados" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=favodev&theme=tokyonight&hide_border=true" alt="Racha de commits" />
 </p>
