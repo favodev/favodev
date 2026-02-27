@@ -30,5 +30,4 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=favodev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="190" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=favodev&layout=compact&theme=tokyonight&hide=php,java,c%2B%2B,html,javascript&hide_border=true" height="190" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=favodev&theme=tokyonight&hide_border=true" />
 </div>
