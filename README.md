@@ -20,7 +20,7 @@
 * 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global (**Rust + Tauri**). Búsqueda inteligente en archivos locales (PDF, TXT, MD).
 * ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes. [Demo en vivo](https://bidpulse-favodev.netlify.app/) 
 * 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Aplicación móvil para el juego "impostor". Gestión de categorías y sistema de votación. [Descargar APK](https://github.com/favodev/impostor/releases)
-* 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales mediante QR y seguimiento de tratamientos para pacientes de tratamiento anticoagulante. [Descargar APK](https://github.com/favodev/meditech/releases)
+* 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales para pacientes de tratamiento anticoagulante. [Descargar APK](https://github.com/favodev/meditech/releases)
 * 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – App de escritorio para la lectura de la biblia desarrollado en **Flutter**. [Descargar App](https://github.com/favodev/BibliaRV60/releases)
 
 ---
