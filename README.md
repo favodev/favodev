@@ -17,7 +17,7 @@
 
 ### Proyectos
 
-* 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global (**Rust + Tauri**). Búsqueda inteligente en archivos locales (PDF, TXT, MD).
+* 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global (**Rust + Tauri**). Búsqueda de texto desde cualquier tipo de archivo y ubicacion. [Descargar APP](https://github.com/favodev/memo-vaulty/releases)
 * ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes. [Demo en vivo](https://bidpulse-favodev.netlify.app/) 
 * 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Aplicación móvil para el juego "impostor". Gestión de categorías y sistema de votación. [Descargar APK](https://github.com/favodev/impostor/releases)
 * 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales para pacientes de tratamiento anticoagulante. [Descargar APK](https://github.com/favodev/meditech/releases)
