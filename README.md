@@ -17,15 +17,15 @@
 
 ### Proyectos
 
-* 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global (**Rust + Tauri**). Búsqueda de texto desde cualquier tipo de archivo y ubicacion. [Descargar APP](https://github.com/favodev/memo-vaulty/releases)
-* ⚡ **[bidpulse](https://github.com/favodev/bidpulse)** – Plataforma de subastas en tiempo real con pujas transparentes. [Demo en vivo](https://bidpulse-favodev.netlify.app/) 
-* 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Aplicación móvil para el juego "impostor". Gestión de categorías y sistema de votación. [Descargar APK](https://github.com/favodev/impostor/releases)
-* 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales para pacientes de tratamiento anticoagulante. [Descargar APK](https://github.com/favodev/meditech/releases)
-* 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – App de escritorio para la lectura de la biblia desarrollado en **Flutter**. [Descargar App](https://github.com/favodev/BibliaRV60/releases)
+- 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global de texto en pc. [Descargar APP](https://github.com/favodev/memo-vaulty/releases)
+- 🪙 **[bidpulse](https://github.com/favodev/bidpulse)** – Subastas y pujas en tiempo real. [Demo en vivo](https://bidpulse-favodev.netlify.app/) 
+- 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Juego del "impostor" viral de redes. [Descargar APK](https://github.com/favodev/impostor/releases)
+- 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales para pacientes de tratamiento anticoagulante. [Descargar APK](https://github.com/favodev/meditech/releases)
+- 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – Biblia RV60 desktop. [Descargar App](https://github.com/favodev/BibliaRV60/releases)
 
 ---
 
-### Análisis de Actividad
+### Actividad
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=favodev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="190" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=favodev&layout=compact&theme=tokyonight&hide=php,java,c%2B%2B,html,javascript&hide_border=true" height="190" />
