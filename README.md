@@ -17,11 +17,11 @@
 
 ### Proyectos
 
-- 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global de texto en pc. [Descargar APP](https://github.com/favodev/memo-vaulty/releases)
-- 🪙 **[bidpulse](https://github.com/favodev/bidpulse)** – Subastas y pujas en tiempo real. [Demo en vivo](https://bidpulse-favodev.netlify.app/) 
-- 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Juego del "impostor" viral de redes. [Descargar APK](https://github.com/favodev/impostor/releases)
-- 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales para pacientes de tratamiento anticoagulante. [Descargar APK](https://github.com/favodev/meditech/releases)
-- 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – Biblia RV60 desktop. [Descargar App](https://github.com/favodev/BibliaRV60/releases)
+- 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global de texto en pc. [app](https://github.com/favodev/memo-vaulty/releases)
+- 🪙 **[bidpulse](https://github.com/favodev/bidpulse)** – Subastas y pujas en tiempo real. [page](https://bidpulse-favodev.netlify.app/) 
+- 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Juego del "impostor" viral de redes. [apk](https://github.com/favodev/impostor/releases)
+- 🩺 **[MediTech](https://github.com/favodev/meditech)** – Gestión de fichas médicas digitales para pacientes TACO. [apk](https://github.com/favodev/meditech/releases)
+- 📖 **[BibliaRV60](https://github.com/favodev/BibliaRV60)** – Biblia RV60 desktop. [app](https://github.com/favodev/BibliaRV60/releases)
 
 ---
 
