@@ -17,6 +17,7 @@
 
 ### Proyectos
 
+- 🧠 **[Pith](https://github.com/favodev/pith)** – pCRM para nunca olvidar datos y fechas importantes de tu circulo social.
 - 🦀 **[memo-vaulty](https://github.com/favodev/memo-vaulty)** – Indexador global de texto en pc. [app](https://github.com/favodev/memo-vaulty/releases)
 - 🪙 **[bidpulse](https://github.com/favodev/bidpulse)** – Subastas y pujas en tiempo real. [page](https://bidpulse-favodev.netlify.app/) 
 - 🕵️‍♂️ **[impostor](https://github.com/favodev/impostor)** – Juego del "impostor" viral de redes. [apk](https://github.com/favodev/impostor/releases)
