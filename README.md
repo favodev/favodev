@@ -22,6 +22,5 @@
 ### Activity
 
 <p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=favodev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=favodev&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=favodev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=favodev&theme=tokyonight&hide_border=true" height="150" />
 </p>
