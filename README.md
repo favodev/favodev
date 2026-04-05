@@ -10,7 +10,7 @@
 
 | | Project | Description | |
 |---|---|---|---|
-| ⏳ | **[Gaze](https://github.com/favodev/gaze)** | Extensión de navegador para detallar tu procrastinación  | In progress... |
+| ⏳ | **[Gaze](https://github.com/favodev/gaze)** | Extensión de navegador para detallar tu procrastinación  | [<img src="https://img.shields.io/badge/Ext.-Download-success?style=flat-square" />](https://github.com/favodev/Gaze/releases) |
 | 🐳 | **[Dockergram](https://github.com/favodev/dockergram)** | Visualizador en tiempo real para contenedores Docker  | [<img src="https://img.shields.io/badge/Leer-README-informational?style=flat-square" />](https://github.com/favodev/dockergram/blob/main/README.md) |
 | 🧠 | **[Pith](https://github.com/favodev/pith)** | App para nunca olvidar datos y fechas importantes de tu circulo social. | [<img src="https://img.shields.io/badge/APK-Download-success?style=flat-square" />](https://github.com/favodev/pith/releases) |
 | 🦀 | **[memo-vaulty](https://github.com/favodev/memo-vaulty)** | Indexador global de texto en pc. Construido con Rust y Tauri. | [<img src="https://img.shields.io/badge/App-Download-success?style=flat-square" />](https://github.com/favodev/memo-vaulty/releases) |
