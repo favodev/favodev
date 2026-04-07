@@ -10,14 +10,14 @@
 
 | | Project | Description | |
 |---|---|---|---|
-| 🐳 | **[Dockergram](https://github.com/favodev/dockergram)** | Visualizador en tiempo real para contenedores Docker  | [<img src="https://img.shields.io/badge/Leer-README-informational?style=flat-square" />](https://github.com/favodev/dockergram/blob/main/README.md) |
-| 🧠 | **[Pith](https://github.com/favodev/pith)** | App para nunca olvidar datos y fechas importantes de tu circulo social. | [<img src="https://img.shields.io/badge/APK-Download-success?style=flat-square" />](https://github.com/favodev/pith/releases) |
-| 🦀 | **[memo-vaulty](https://github.com/favodev/memo-vaulty)** | Indexador global de texto en pc. Construido con Rust y Tauri. | [<img src="https://img.shields.io/badge/App-Download-success?style=flat-square" />](https://github.com/favodev/memo-vaulty/releases) |
-| 🪙 | **[bidpulse](https://github.com/favodev/bidpulse)** | Subastas y pujas en tiempo real. | [<img src="https://img.shields.io/badge/Live-Demo-informational?style=flat-square" />](https://bidpulse-favodev.netlify.app/) |
-| ⏳ | **[Gaze](https://github.com/favodev/gaze)** | Extensión de navegador para detallar tu procrastinación  | [<img src="https://img.shields.io/badge/Extension-Download-success?style=flat-square" />](https://github.com/favodev/Gaze/releases) |
-| 🕵️‍♂️ | **[impostor](https://github.com/favodev/impostor)** | Juego del "impostor" viral de redes sociales. | [<img src="https://img.shields.io/badge/APK-Download-success?style=flat-square" />](https://github.com/favodev/impostor/releases) |
-| 🩺 | **[MediTech](https://github.com/favodev/meditech)** | Gestión de fichas médicas digitales para pacientes TACO. | [<img src="https://img.shields.io/badge/APK-Download-success?style=flat-square" />](https://github.com/favodev/meditech/releases) |
-| 📖 | **[BibliaRV60](https://github.com/favodev/BibliaRV60)** | Lector de escritorio para la Biblia Reina Valera 1960. | [<img src="https://img.shields.io/badge/App-Download-success?style=flat-square" />](https://github.com/favodev/BibliaRV60/releases) |
+| 🐳 | **[Dockergram](https://github.com/favodev/dockergram)** | Real-time Docker container visualizer | [<img src="https://img.shields.io/badge/Read-README-informational?style=flat-square" />](https://github.com/favodev/dockergram/blob/main/README.md) |
+| 🧠 | **[Pith](https://github.com/favodev/pith)** | App to track and remember important dates and details of your social circle | [<img src="https://img.shields.io/badge/APK-Download-success?style=flat-square" />](https://github.com/favodev/pith/releases) |
+| 🦀 | **[memo-vaulty](https://github.com/favodev/memo-vaulty)** | Global desktop text indexer. Built with Rust and Tauri | [<img src="https://img.shields.io/badge/App-Download-success?style=flat-square" />](https://github.com/favodev/memo-vaulty/releases) |
+| 🪙 | **[bidpulse](https://github.com/favodev/bidpulse)** | Real-time auctions and bidding platform | [<img src="https://img.shields.io/badge/Live-Demo-informational?style=flat-square" />](https://bidpulse-favodev.netlify.app/) |
+| ⏳ | **[Gaze](https://github.com/favodev/gaze)** | Browser extension to track and analyze your procrastination habits | [<img src="https://img.shields.io/badge/Ext-Download-success?style=flat-square" />](https://github.com/favodev/Gaze/releases) |
+| 🕵️‍♂️ | **[impostor](https://github.com/favodev/impostor)** | Social media-inspired viral "impostor" game | [<img src="https://img.shields.io/badge/APK-Download-success?style=flat-square" />](https://github.com/favodev/impostor/releases) |
+| 🩺 | **[MediTech](https://github.com/favodev/meditech)** | Digital medical record management for Oral Anticoagulant Therapy patients | [<img src="https://img.shields.io/badge/APK-Download-success?style=flat-square" />](https://github.com/favodev/meditech/releases) |
+| 📖 | **[BibliaRV60](https://github.com/favodev/BibliaRV60)** | Desktop reader for the Reina Valera 1960 Bible | [<img src="https://img.shields.io/badge/App-Download-success?style=flat-square" />](https://github.com/favodev/BibliaRV60/releases) |
 
 ---
 
