@@ -11,7 +11,6 @@
 | | Project | Description | |
 |---|---|---|---|
 | 🐳 | **[Dockergram](https://github.com/favodev/dockergram)** | Real-time Docker container visualizer | [<img src="https://img.shields.io/badge/Read-README-informational?style=flat-square" />](https://github.com/favodev/dockergram/blob/main/README.md) |
-| 🍙 | **[Kigen](https://github.com/favodev/kigen)** |  | In progress.. |
 | 🧠 | **[Pith](https://github.com/favodev/pith)** | App to track and remember important dates and details of your social circle | [<img src="https://img.shields.io/badge/APK-Download-success?style=flat-square" />](https://github.com/favodev/pith/releases) |
 | 🦀 | **[memo-vaulty](https://github.com/favodev/memo-vaulty)** | Global desktop text indexer. Built with Rust and Tauri | [<img src="https://img.shields.io/badge/App-Download-success?style=flat-square" />](https://github.com/favodev/memo-vaulty/releases) |
 | 🪙 | **[bidpulse](https://github.com/favodev/bidpulse)** | Real-time auctions and bidding platform | [<img src="https://img.shields.io/badge/Live-Demo-informational?style=flat-square" />](https://bidpulse-favodev.netlify.app/) |
