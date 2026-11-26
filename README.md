@@ -7,9 +7,9 @@
 <p align="center">
   <a href="https://github.com/sponsors/favodev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-light.svg">
-      <img alt="Buy me a coffee · GitHub Sponsors" src="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-dark.svg" height="54">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-btn-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-btn-light.svg">
+      <img alt="Buy me a coffee · GitHub Sponsors" src="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-btn-dark.svg" height="54">
     </picture>
   </a>
 </p>
