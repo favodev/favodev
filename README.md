@@ -9,7 +9,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-light.svg">
-      <img alt="Buy me a coffee · GitHub Sponsors" src="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-dark.svg" height="52">
+      <img alt="Buy me a coffee · GitHub Sponsors" src="https://raw.githubusercontent.com/favodev/favodev/main/assets/coffee-dark.svg" height="54">
     </picture>
   </a>
 </p>
